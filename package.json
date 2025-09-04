@@ -1,0 +1,33 @@
+{
+  "name": "top-restaurantpage",
+  "version": "1.0.0",
+  "description": "Exercise to practice javascript and webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daCruzNobre/TOP-RestaurantPage.git"
+  },
+  "keywords": [
+    "TOP",
+    "Odin",
+    "Project"
+  ],
+  "author": "Pedro da Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daCruzNobre/TOP-RestaurantPage/issues"
+  },
+  "homepage": "https://github.com/daCruzNobre/TOP-RestaurantPage#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.4",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
